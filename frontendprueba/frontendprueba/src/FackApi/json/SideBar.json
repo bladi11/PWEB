@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Dashboard",
+    "name": "sidebar.admin",
+    "is_heading": true,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": ""
+  },
+  {
+    "title": "Inscripciones",
+    "name": "Inscripciones",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-cpu-fill",
+    "link": {
+      "name" : "juego.juego"
+    }
+  },
+  {
+    "title": "Vehiculo",
+    "name": "Vehiculo",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-car-line",
+    "link": {
+      "name" : "vehiculo.vehiculo"
+    }
+  },
+  {
+    "title": "Tareas",
+    "name": "Tareas",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-task-line",
+    "link": {
+      "name" : "moto.moto"
+    }
+  },
+  {
+    "title": "Encriptacion",
+    "name": "Encriptacion",
+    "is_heading": false,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "ri-motorbike-line",
+    "link": {
+      "name" : "encri.encri"
+    }
+  }
+]
